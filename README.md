@@ -3,6 +3,9 @@ This repository showcases a stunning and feature-rich calculator app built using
 
 ## APP PREVIEW
 
+<img width="329" alt="Screenshot 2023-06-01 at 11 07 45 AM" src="https://github.com/abhishekGarg26/Calculator_APP/assets/132883235/dfddcc5b-f98f-4052-bc7c-eccbad3780c0">
+<img width="321" alt="Screenshot 2023-06-01 at 11 08 11 AM" src="https://github.com/abhishekGarg26/Calculator_APP/assets/132883235/ece7a154-f101-49cd-a88c-48b1c59d63be">
+
 ## FEATURES
 
 1. Cross-Platform Compatibility: This calculator app is developed using React Native, ensuring it runs smoothly on both Android and iOS devices. It provides a consistent user experience across platforms, allowing users to perform calculations seamlessly, regardless of their preferred mobile platform.
