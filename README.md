@@ -10,13 +10,13 @@ This repository showcases a stunning and feature-rich calculator app built using
 
 1. Cross-Platform Compatibility: This calculator app is developed using React Native, ensuring it runs smoothly on both Android and iOS devices. It provides a consistent user experience across platforms, allowing users to perform calculations seamlessly, regardless of their preferred mobile platform.
 2. Eye-Catching UI Design: The app boasts an aesthetically pleasing and intuitive user interface that enhances the overall user experience. The design incorporates modern elements, vibrant colors, and smooth animations, making it visually appealing and engaging.
-3. Advanced Calculator Functions: The app supports a wide range of mathematical operations, including basic arithmetic calculations, percentages, square roots, and more. Users can perform complex calculations efficiently and accurately.
+3. Advanced Calculator Functions: The app supports a wide range of mathematical operations, including basic arithmetic calculations and more. Users can perform complex calculations efficiently and accurately.
 4. Toast Notifications: Leveraging the ToastAndroid library in React Native, the app displays informative and interactive toast notifications. These unobtrusive pop-up messages provide feedback, alerts, or important information, enhancing the user experience.
 5. Animated Library Integration: The app integrates the Animated library of React Native to create captivating animations. The animations are used to enhance the user interface and interactions, making the app feel dynamic and lively.
 6. History Screen with Animation: The app incorporates a history screen that displays the user's calculation history. The Animated library is utilized to create smooth and visually appealing transitions and animations when navigating to the history screen or interacting with saved calculations.
 7. Responsive Layout: Designed with a mobile-first approach, this calculator app offers a responsive layout that adapts seamlessly to different screen sizes. It ensures an optimal user experience on various devices, including smartphones and tablets.
 8. Lightweight and Efficient: The app is built with performance in mind, ensuring efficient memory usage and fast calculations. It provides a seamless user experience with smooth transitions and minimal lag.
-9. Customization Options: The app allows users to customize aspects such as theme, font size, and button layout, providing a personalized experience that suits their preferences.
+
 
 ## ACCESS
 
